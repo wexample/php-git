@@ -1,7 +1,7 @@
 {
   "name": "wexample/php-git",
   "description": "Reading a git repository's history and committing given paths, framework-agnostic",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "type": "library",
   "license": "MIT",
   "authors": [
